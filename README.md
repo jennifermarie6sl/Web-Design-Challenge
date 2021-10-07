@@ -1,5 +1,5 @@
 # Web Design Challenge
-For this project we created a website using the weather data plot visualizations we created in a past project. 
+For this project we created a website using the weather data plot visualizations we created in a past project. Page linked here: https://jennifermarie6sl.github.io/Web-Design-Challenge/
 
 In building this dashboard, we've created individual pages for each plot and a means by which we can navigate between them. These pages contain the visualizations and their corresponding explanations. We've also created a landing page, a page where we can see a comparison of all of the plots, and another page where we can view the data used to build them.
 
